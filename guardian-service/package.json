@@ -27,7 +27,7 @@
     "reflect-metadata": "^0.1.13",
     "vc-modules": "file:../vc-modules",
     "mongodb": "^3.7.3",
-    "typeorm": "^0.2.41"
+    "typeorm": "^0.3.0"
   },
   "description": "",
   "devDependencies": {
