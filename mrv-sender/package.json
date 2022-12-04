@@ -9,7 +9,7 @@
     "@transmute/vc.js": "0.7.0-unstable.8",
     "axios": "^0.21.1",
     "did-sdk-js": "git+https://github.com/EnvisionBlockchain/did-sdk-js.git",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "vc-modules": "file:../vc-modules"
   },
   "description": "",
