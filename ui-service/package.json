@@ -23,7 +23,7 @@
     "fs-extra": "^10.0.0",
     "interfaces": "file:../interfaces",
     "js-yaml": "^4.1.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jszip": "^3.7.1",
     "mathjs": "^9.5.0",
     "module-alias": "^2.2.2",
