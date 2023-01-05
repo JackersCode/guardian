@@ -24,7 +24,7 @@
     "interfaces": "file:../interfaces",
     "js-yaml": "^4.1.0",
     "jsonwebtoken": "^8.5.1",
-    "jszip": "^3.7.1",
+    "jszip": "^3.8.0",
     "mathjs": "^9.5.0",
     "module-alias": "^2.2.2",
     "mongodb": "^3.7.3",
